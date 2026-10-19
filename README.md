@@ -74,9 +74,9 @@ En [`assets/`](assets/) también se incluye el catálogo de elementos de MAGERIT
 
 Como lectura breve adicional, consultad [¡Fácil y sencillo! Análisis de riesgos en 6 pasos](<Recursos/3.1. Análisis de riesgos en 6 pasos.pdf>), incluida en la plantilla original del curso.
 
-### Materiales conservados de la plantilla original
+### Otros materiales
 
-Se han revisado e incorporado los materiales del repositorio original del curso 2025-2026. Los recursos técnicos extensos son opcionales: para realizar este análisis sencillo, la referencia principal es la guía de INCIBE y sus seis fases.
+Se han incorporado otros materiales. Los recursos técnicos extensos son opcionales: para realizar este análisis sencillo, la referencia principal es la guía de INCIBE y sus seis fases.
 
 El README de la raíz actualiza la consigna anterior con las instrucciones vigentes de Moodle; el esquema antiguo se conserva como referencia histórica y no sustituye al entregable actual.
 
@@ -92,9 +92,6 @@ El README de la raíz actualiza la consigna anterior con las instrucciones vigen
 | [`Recursos/EjemploPlanDirectorDeSeguridad.pdf`](<Recursos/EjemploPlanDirectorDeSeguridad.pdf>) | Ejemplo completo de PDS, solo como referencia posterior. |
 | [`Recursos/Plantilla_AnalisiDeRiesgos_2526.md`](<Recursos/Plantilla_AnalisiDeRiesgos_2526.md>) | Esquema de análisis usado en la plantilla anterior; el documento actual es `AnalisisRiegos.md`. |
 
-La carpeta [`Plantillas/`](Plantillas/) conserva las hojas de cálculo de la plantilla anterior. Para esta entrega utilizad las copias de trabajo de `Anexos/`. Las copias iniciales de ambos directorios se han verificado como idénticas.
-
-También se conserva el apoyo teórico de la unidad: [Análisis de riesgos](https://revilofe.github.io/section2/u01/teoria/IS-U1.2.2.-AnalisiDeRiesgos/) y la [guía de Markdown del curso](https://docs.google.com/document/d/1VFO2l-229O-Go8pSscavNNXCAoMnr5-pFsXh1weG6wI/edit?tab=t.0).
 
 ## Entrega del equipo
 
