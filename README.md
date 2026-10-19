@@ -60,42 +60,37 @@ La guía de INCIBE propone seis fases. Seguidlas de forma sencilla y documentad 
 
 La guía de INCIBE es la referencia principal del método. El documento **¡Fácil y sencillo! Análisis de riesgos en 6 pasos**, también de INCIBE y disponible en `Recursos/`, es una lectura breve de apoyo. El catálogo de MAGERIT puede consultarse para descubrir ejemplos de activos y amenazas; no es necesario aplicar MAGERIT como metodología completa.
 
-## Materiales de trabajo
+## Materiales de partida
 
-Los cuatro documentos adjuntos en Moodle y el material visual y complementario de apoyo están en [`assets/`](assets/). Conservad los originales sin modificar. Las hojas de cálculo preparadas para el trabajo del equipo están en [`Anexos/`](Anexos/):
+Los documentos originales para iniciar el análisis se mantienen separados de los archivos que genere el equipo.
 
-| Archivo de trabajo | Uso |
+### Plantillas de trabajo
+
+La carpeta [`Plantillas/`](Plantillas/) contiene los ficheros de partida. No modifiquéis los originales: copiad las hojas que necesitéis a `Anexos/` y guardad allí las versiones cumplimentadas.
+
+| Plantilla de partida | Uso |
 |---|---|
-| [`Anexos/plan_director_de_seguridad_inventario_activos.xls`](Anexos/plan_director_de_seguridad_inventario_activos.xls) | Registrar y clasificar los activos relevantes. |
-| [`Anexos/plan_director_de_seguridad_hoja_para_el_analisis_de_riesgos.xlsm`](Anexos/plan_director_de_seguridad_hoja_para_el_analisis_de_riesgos.xlsm) | Documentar escenarios, probabilidad, impacto y tratamiento. |
-| [`Anexos/plan_director_de_seguridad_hoja_de_verificacion_controles.xls`](Anexos/plan_director_de_seguridad_hoja_de_verificacion_controles.xls) | Revisar controles existentes y aspectos pendientes de comprobar. |
+| [`Plantillas/plan_director_de_seguridad_inventario_activos.xls`](Plantillas/plan_director_de_seguridad_inventario_activos.xls) | Registrar y clasificar los activos relevantes. |
+| [`Plantillas/plan_director_de_seguridad_hoja_para_el_analisis_de_riesgos.xlsm`](Plantillas/plan_director_de_seguridad_hoja_para_el_analisis_de_riesgos.xlsm) | Documentar escenarios, probabilidad, impacto y tratamiento. |
+| [`Plantillas/plan_director_de_seguridad_hoja_de_verificacion_controles.xls`](Plantillas/plan_director_de_seguridad_hoja_de_verificacion_controles.xls) | Revisar controles existentes y aspectos pendientes de comprobar. |
 
-En [`assets/`](assets/) también se incluye el catálogo de elementos de MAGERIT v3. La guía de INCIBE se consulta en línea: [Gestión de riesgos: una guía de aproximación para el empresario](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ciberseguridad_gestion_riesgos_metad.pdf).
+### Recursos de consulta
 
-Como lectura breve adicional, consultad [¡Fácil y sencillo! Análisis de riesgos en 6 pasos](<Recursos/3.1. Análisis de riesgos en 6 pasos.pdf>), incluida en la plantilla original del curso.
+Para el análisis sencillo de esta actividad, utilizad como referencia principal la guía de INCIBE [Gestión de riesgos](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ciberseguridad_gestion_riesgos_metad.pdf) y su lectura breve [Análisis de riesgos en 6 pasos](<Recursos/3.1. Análisis de riesgos en 6 pasos.pdf>). El catálogo de MAGERIT de `Recursos/` sirve para consultar ejemplos de activos y amenazas; no es necesario aplicar MAGERIT como metodología completa.
 
-### Otros materiales
+`Recursos/` reúne, sin duplicarlos en otras carpetas, los documentos de referencia que ya acompañaban a la plantilla: materiales sobre el PDS, controles ISO 27002, amenazas y vulnerabilidades, MAGERIT y un ejemplo de PDS. Son opcionales; no es necesario leerlos todos para completar la actividad.
 
-Se han incorporado otros materiales. Los recursos técnicos extensos son opcionales: para realizar este análisis sencillo, la referencia principal es la guía de INCIBE y sus seis fases.
+### Anexos generados por el equipo
 
-El README de la raíz actualiza la consigna anterior con las instrucciones vigentes de Moodle; el esquema antiguo se conserva como referencia histórica y no sustituye al entregable actual.
+La carpeta [`Anexos/`](Anexos/) es el destino para las hojas de cálculo cumplimentadas y demás material que genere el equipo durante el análisis. Partid de los originales de `Plantillas/` y conservad aquí las copias trabajadas; no guardéis las plantillas originales en esta carpeta.
 
-| Recurso opcional | Uso orientativo |
-|---|---|
-| [`Recursos/1.1. Ficha PDS.pdf`](<Recursos/1.1. Ficha PDS.pdf>) | Contexto general del Plan Director de Seguridad. |
-| [`Recursos/1.2. Plan director de seguridad.pdf`](<Recursos/1.2. Plan director de seguridad.pdf>) | Referencia ampliada sobre el PDS, no es necesario desarrollarlo en esta tarea. |
-| [`Recursos/2.1. Control ISO 27002.pdf`](<Recursos/2.1. Control ISO 27002.pdf>) y [`Recursos/2.2. Control ISO 27002 Ampliado.pdf`](<Recursos/2.2. Control ISO 27002 Ampliado.pdf>) | Ejemplos de controles y salvaguardas. |
-| [`Recursos/2.3. Une-en_iso-iec_27002_norma_mincotur.pdf`](<Recursos/2.3. Une-en_iso-iec_27002_norma_mincotur.pdf>) | Referencia normativa complementaria. |
-| [`Recursos/3.2 Listado de Amenazas y Vulnerabilidades ISO27000.pdf`](<Recursos/3.2 Listado de Amenazas y Vulnerabilidades ISO27000.pdf>) | Ideas para identificar amenazas y vulnerabilidades. |
-| [`Recursos/3.3 2012_Magerit_v3_libro2_catalogo-de-elementos_es_NIPO_630-12-171-8 (1).pdf`](Recursos/3.3%202012_Magerit_v3_libro2_catalogo-de-elementos_es_NIPO_630-12-171-8%20%281%29.pdf) | Catálogo de activos y amenazas para consulta. El catálogo adjunto en Moodle también se conserva en `assets/`. |
-| [`Recursos/3.4 Guia_ciberseguridad_gestion_riesgos_metad.pdf`](<Recursos/3.4 Guia_ciberseguridad_gestion_riesgos_metad.pdf>) | Copia local de la guía extensa de INCIBE enlazada arriba. |
-| [`Recursos/EjemploPlanDirectorDeSeguridad.pdf`](<Recursos/EjemploPlanDirectorDeSeguridad.pdf>) | Ejemplo completo de PDS, solo como referencia posterior. |
-| [`Recursos/Plantilla_AnalisiDeRiesgos_2526.md`](<Recursos/Plantilla_AnalisiDeRiesgos_2526.md>) | Esquema de análisis usado en la plantilla anterior; el documento actual es `AnalisisRiegos.md`. |
+### Elementos enlazados
 
+La carpeta [`assets/`](assets/) contiene únicamente las imágenes enlazadas desde este README. Los PDF están en `Recursos/` y las hojas de cálculo originales, en `Plantillas/`.
 
 ## Entrega del equipo
 
-El trabajo completo se entregará en el archivo `README.md` del repositorio, con una extensión equivalente a un máximo de 10 caras. Utilizad las hojas de cálculo de `Anexos/` como apoyo y mantenedlas en esa carpeta. Identificad a las personas integrantes del equipo y la responsabilidad asumida por cada una. Entregad también en Moodle el enlace al repositorio.
+El trabajo completo se entregará en el archivo `README.md` del repositorio, con una extensión equivalente a un máximo de 10 caras. Utilizad las hojas de cálculo de `Plantillas/` como punto de partida y guardad las versiones cumplimentadas y demás material generado en `Anexos/`. Identificad a las personas integrantes del equipo y la responsabilidad asumida por cada una. Entregad también en Moodle el enlace al repositorio.
 
 La entrega debe incluir, como mínimo:
 
@@ -135,4 +130,4 @@ Este repositorio incluye [`AnalisisRiegos.md`](AnalisisRiegos.md), una propuesta
 ## Referencias
 
 - INCIBE, [Gestión de riesgos: una guía de aproximación para el empresario](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ciberseguridad_gestion_riesgos_metad.pdf).
-- MAGERIT v3, *Libro II: Catálogo de elementos*, incluido en `assets/` como material complementario.
+- MAGERIT v3, *Libro II: Catálogo de elementos*, incluido en `Recursos/` como material complementario.

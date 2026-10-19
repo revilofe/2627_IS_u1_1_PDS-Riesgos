@@ -102,4 +102,4 @@ Como punto de partida para el PDS, se recomienda priorizar la resiliencia de las
 
 - INCIBE, [Gestión de riesgos: una guía de aproximación para el empresario](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ciberseguridad_gestion_riesgos_metad.pdf), especialmente los conceptos de activo, amenaza, vulnerabilidad, impacto y probabilidad, la valoración `impacto × probabilidad` y las opciones de tratamiento.
 - INCIBE, [¡Fácil y sencillo! Análisis de riesgos en 6 pasos](<Recursos/3.1. Análisis de riesgos en 6 pasos.pdf>).
-- MAGERIT v3, *Libro II: Catálogo de elementos*, incluido en `assets/` como referencia complementaria.
+- MAGERIT v3, *Libro II: Catálogo de elementos*, incluido en `Recursos/` como referencia complementaria.
