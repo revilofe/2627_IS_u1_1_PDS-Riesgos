@@ -114,7 +114,7 @@ La carpeta [`assets/`](assets/) contiene únicamente las imágenes enlazadas des
 
 ## Entrega del equipo
 
-El trabajo completo se entregará en el archivo `README.md` del repositorio, con una extensión equivalente a un máximo de 10 caras. Utilizad las hojas de cálculo de `Plantillas/` como punto de partida y guardad las versiones cumplimentadas y demás material generado en `Anexos/`. Identificad a las personas integrantes del equipo y la responsabilidad asumida por cada una. Entregad también en Moodle el enlace al repositorio.
+La entrega final se redactará en [`AnalisisRiegos.md`](AnalisisRiegos.md), siguiendo su esquema, con una extensión equivalente a un máximo de 10 caras. Este `README.md` describe la actividad y sus recursos. Utilizad las hojas de cálculo de `Plantillas/` como punto de partida y guardad las versiones cumplimentadas y demás material generado en `Anexos/`. Identificad a las personas integrantes del equipo y la responsabilidad asumida por cada una. Entregad también en Moodle el enlace al repositorio.
 
 La entrega debe incluir, como mínimo:
 
@@ -146,10 +146,6 @@ Las conclusiones deben resumir:
 - Las necesidades de mejora que deberían trasladarse al PDS.
 
 Las actuaciones posteriores del PDS deberán estar justificadas por los riesgos del análisis o por otros requisitos de seguridad identificados. El análisis no tiene que desarrollar el PDS completo.
-
-## Esquema del análisis
-
-El archivo [`AnalisisRiegos.md`](AnalisisRiegos.md) contiene únicamente los apartados que debe desarrollar el equipo. La entrega final se redacta en este `README.md`.
 
 ## Referencias
 
