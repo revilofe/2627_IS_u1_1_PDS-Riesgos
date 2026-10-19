@@ -123,9 +123,9 @@ Las conclusiones deben resumir:
 
 Las actuaciones posteriores del PDS deberán estar justificadas por los riesgos del análisis o por otros requisitos de seguridad identificados. El análisis no tiene que desarrollar el PDS completo.
 
-## Propuesta de análisis de referencia
+## Esquema del análisis
 
-Este repositorio incluye [`AnalisisRiegos.md`](AnalisisRiegos.md), una propuesta sencilla de solución para revisión docente. Sus valoraciones son iniciales y deben contrastarse con información real antes de presentarse como conclusiones definitivas.
+El archivo [`AnalisisRiegos.md`](AnalisisRiegos.md) contiene únicamente los apartados que debe desarrollar el equipo. La entrega final se redacta en este `README.md`.
 
 ## Referencias
 
