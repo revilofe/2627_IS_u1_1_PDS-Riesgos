@@ -2,8 +2,6 @@
 
 **Ciclo de Especialización de FP en Ciberseguridad en Entornos de las Tecnologías de la Información · Unidad 1**
 
-> **Estado:** borrador de plantilla pendiente de revisión docente. No debe usarse todavía como plantilla definitiva del assignment.
-
 ## Finalidad de la actividad
 
 La empresa del caso quiere mejorar su seguridad después de sufrir una experiencia desagradable con malware. Antes de preparar su Plan Director de Seguridad (PDS), el equipo realizará un análisis sencillo de los riesgos que pueden afectar a la información, los sistemas y la actividad de la organización.
