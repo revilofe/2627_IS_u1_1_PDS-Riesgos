@@ -55,8 +55,32 @@ La guía de INCIBE propone seis fases. Seguidlas de forma sencilla y documentad 
 2. **Identificar los activos:** empezad por la información y los procesos importantes; añadid los equipos, aplicaciones, redes, personas, instalaciones y proveedores que los soportan.
 3. **Identificar las amenazas:** elegid amenazas realistas para los activos y el alcance. Evitad escenarios improbables que no aporten valor al análisis.
 4. **Identificar vulnerabilidades y salvaguardas:** anotad debilidades y controles existentes. Diferenciad los datos confirmados de los aspectos que quedan por comprobar.
-5. **Evaluar el riesgo:** estimad probabilidad e impacto sobre confidencialidad, integridad y disponibilidad, justificad los valores y calculad **riesgo = probabilidad × impacto**. Para este ejercicio se propone una adaptación sencilla de tres niveles: bajo (1), medio (2) y alto (3). Clasificad 1-2 como bajo, 3-4 como medio y 6-9 como alto. Es una escala didáctica, no una escala oficial de INCIBE.
+5. **Evaluar el riesgo:** estimad probabilidad e impacto sobre confidencialidad, integridad y disponibilidad y justificad los valores. La hoja de análisis de riesgos de `Plantillas/` calcula automáticamente el producto; consultad la [escala opcional](#escala-opcional-probabilidad-x-impacto) si queréis entender o comprobar el cálculo manualmente.
 6. **Tratar el riesgo:** priorizad los riesgos que superen el umbral acordado por el equipo. Proponed evitarlos, reducirlos, transferirlos o aceptarlos justificadamente, e indicad el riesgo residual esperado. La aceptación definitiva corresponde a la dirección.
+
+### Escala opcional (probabilidad x impacto)
+
+La hoja de análisis de riesgos de `Plantillas/` calcula automáticamente el producto a partir de los niveles seleccionados. Esta escala es opcional: sirve para entender o comprobar el cálculo, o para hacerlo manualmente si no se utiliza la hoja.
+
+Valorad por separado la probabilidad y el impacto con niveles bajo (1), medio (2) y alto (3):
+
+| Valor | Probabilidad | Impacto |
+|---|---|---|
+| 1 - Bajo | El escenario parece poco probable con la información disponible. | Efecto limitado y recuperable en poco tiempo. |
+| 2 - Medio | El escenario es posible. | Interrupción o pérdida relevante, pero acotada. |
+| 3 - Alto | El escenario es probable según las evidencias disponibles. | Puede afectar gravemente a la actividad, los datos, los clientes o la reputación. |
+
+Calculad **riesgo = probabilidad × impacto** y clasificad el resultado:
+
+| Resultado | Nivel de riesgo |
+|---|---|
+| 1-2 | Bajo |
+| 3-4 | Medio |
+| 6-9 | Alto |
+
+Ejemplos: `1 × 2 = 2` (bajo), `2 × 2 = 4` (medio) y `2 × 3 = 6` (alto). Con esta escala solo pueden obtenerse 1, 2, 3, 4, 6 y 9; 5, 7 y 8 no son resultados posibles.
+
+> Esta escala de tres niveles es una simplificación didáctica para la actividad, no una escala oficial de INCIBE.
 
 La guía de INCIBE es la referencia principal del método. El documento **¡Fácil y sencillo! Análisis de riesgos en 6 pasos**, también de INCIBE y disponible en `Recursos/`, es una lectura breve de apoyo. El catálogo de MAGERIT puede consultarse para descubrir ejemplos de activos y amenazas; no es necesario aplicar MAGERIT como metodología completa.
 
